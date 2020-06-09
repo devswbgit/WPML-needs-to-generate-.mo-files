@@ -1,0 +1,5 @@
+If you have a problem with "WPML needs to generate .mo files"
+1) In section "Language URL format" enable -> "Language name added as a parameter"
+2) Settings -> Permalinks -> Plain -> Save Changes
+3) String translation -> in dialog window -> click "Try again"
+4) Revert 1 and 2 step
